@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "5dbf515b-c744-40bb-03dd-464436e1350b",
+  "instructors": {
+    "content": [
+      "b8f6c328-4734-dbc7-1e72-f22109c5ce34"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5b51fe6b-40eb-1bc5-f3cd-b8cf497960b7",
+    "website": "21l-003-2-reading-fiction-fall-2006"
+  },
+  "course_title": "Reading Fiction",
+  "course_description": "This course introduces prose narrative, both short stories and the novel. It examines the construction of narrative and the analysis of literary response.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.003-2",
+  "course_image_thumbnail": {
+    "content": "244480fa-bb78-ae17-46a7-4a2dcc9b48fd",
+    "website": "21l-003-2-reading-fiction-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "f6856648-0c43-4769-974e-745b34c176ab",
+  "site_short_id": "21l.003-2-fall-2006",
+  "site_url_path": "courses/21l-003-2-reading-fiction-fall-2006",
+  "title": "Course Metadata"
+}
